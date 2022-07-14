@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Egba-Adaeze
-- 👀 I’m interested in networking 
+- 👀 I’m interested in networking with people
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me on twitter @EgbaAdaeze
