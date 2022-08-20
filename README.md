@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Egba-Adaeze
-- 👀 I’m interested in networking with people
+- 👀 I’m interested in networking with people across nations
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
-- 📫 How to reach me on twitter @EgbaAdaeze
+- 💞️ I’m looking to collaborate on projects to build my skills
+- 📫 How to reach me on twitter @EgbaAdaeze or helenadaeze@gmail.com
 
 <!---
 Egba-Adaeze/Egba-Adaeze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
