@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Egba-Adaeze
 - 👀 I’m interested in networking with people across nations
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on projects to build my skills
 - 📫 How to reach me on twitter @EgbaAdaeze or helenadaeze@gmail.com
 
