@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@adaezeegba" target="blank"><img src="https://img.shields.io/twitter/follow/@adaezeegba?logo=twitter&style=for-the-badge" alt="@adaezeegba" /></a> </p>
 
-- 🔭 I’m currently working on **Booking App**
+- 🔭 I’m currently working on **Our hostel**
 
-- 🌱 I’m currently learning **React, Node and Typescript**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **Projects and conferences**
 
