@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Projects and conferences**
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **MERN stack, JAVA, C# Or React Native**
 
 - 📫 How to reach me **helenadaeze@gmail.com**
 
