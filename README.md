@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adaeze Helen Egba</h1>
-<h3 align="center">A passionate software engineer from Nigeria</h3>
+<h3 align="center">A passionate software engineer from planet earth, I wish to visit Mars soon with Elon Musk 😉 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egba-adaeze&label=Profile%20views&color=0e75b6&style=flat" alt="egba-adaeze" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **helenadaeze@gmail.com**
 
-- ⚡ Fun fact **I love reading novels**
+- ⚡ Fun fact **I love reading novels and I love learning, I see myslef as a scholar for life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
